@@ -63,6 +63,7 @@ Depends: libglib2.0-0,
          ${misc:Depends},
          ${shlibs:Depends}
 Provides: libqt5-ukui-style
+Multi-Arch: same
 Description: UKUI platform theme and styles' shared library
  qt5-ukui-platformtheme is official platform theme of UKUI desktop
  environment. It also provides the common metadatas for ukui-styles
